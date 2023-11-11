@@ -1,0 +1,14 @@
+export { default as HeaderComponent } from "./HeaderComponent";
+export { default as MobileHeaderComponent } from "./MobileHeaderComponent";
+export { default as FooterComponent } from "./FooterComponent";
+export { default as HomeSectionComponent } from "./HomeSectionComponent";
+export { default as AboutSectionComponent } from "./AboutSectionComponent";
+export { default as SkillsSectionComponent } from "./SkillsSectionComponent";
+export { default as EducationSectionComponent } from "./EducationSectionComponent";
+export { default as ExperienceSectionComponent } from "./ExperienceSectionComponent";
+export { default as PortfolioSectionComponent } from "./PortfolioSectionComponent";
+export { default as PortfolioPageSectionComponent } from "./PortfolioPageSectionComponent";
+export { default as GetInTouchComponent } from "./GetInTouchComponent";
+export { default as BlogSectionComponent } from "./BlogSectionComponent";
+export { default as BlogPageSectionComponent } from "./BlogPageSectionComponent";
+export { default as ContactSectionComponent } from "./ContactSectionComponent";
