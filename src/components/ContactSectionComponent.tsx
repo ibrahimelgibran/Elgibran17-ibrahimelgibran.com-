@@ -150,7 +150,7 @@ function ContactSectionComponent(): React.JSX.Element {
                       <FormLabel>Your First Name</FormLabel>
                       <Input
                         id="first_name"
-                        placeholder="Your First Name. Example: John"
+                        placeholder="Your First Name. Example: Ibrahim"
                         borderWidth="2px"
                         paddingY={8}
                         paddingX={4}
@@ -191,7 +191,7 @@ function ContactSectionComponent(): React.JSX.Element {
                       <FormLabel>Your Last Name</FormLabel>
                       <Input
                         id="last_name"
-                        placeholder="Your Last Name. Example: Doe"
+                        placeholder="Your Last Name. Example: El Gibran"
                         borderWidth="2px"
                         paddingY={8}
                         paddingX={4}
@@ -229,7 +229,7 @@ function ContactSectionComponent(): React.JSX.Element {
                       <FormLabel>Your Email.</FormLabel>
                       <Input
                         id="email"
-                        placeholder="Your Email. Example: johndoe@gmail.com"
+                        placeholder="Your Email. Example: ibrahimelgibran17@gmail.com"
                         borderWidth="2px"
                         paddingY={8}
                         paddingX={4}
