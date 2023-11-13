@@ -5,11 +5,16 @@ import { Box, Container, Flex, Grid, GridItem, Text } from "@chakra-ui/react";
 import { BsFillChatFill } from "react-icons/bs";
 import { AboutExperienceCard, PrimaryButton, SectionTitle } from "@/fragments";
 import { profileData } from "@/constants";
-import { fadeInTransition, staggeredContainer, textVariantTransition } from "@/utils";
+import {
+  fadeInTransition,
+  staggeredContainer,
+  textVariantTransition,
+} from "@/utils";
 import SectionLayout from "@/layouts/SectionLayout";
 
 function AboutSectionComponent(): React.JSX.Element {
-  const { name, pictures, region, divisions, descriptions, experiences } = profileData;
+  const { name, pictures, region, divisions, descriptions, experiences } =
+    profileData;
 
   return (
     <Box
@@ -52,7 +57,12 @@ function AboutSectionComponent(): React.JSX.Element {
               overflow="hidden"
               borderRadius="1rem"
               transform={{ base: "rotate(0)", lg: "rotate(10deg)" }}
-              height={{ base: "22.5rem", md: "27.5rem", lg: "35rem", xl: "40rem" }}
+              height={{
+                base: "22.5rem",
+                md: "27.5rem",
+                lg: "35rem",
+                xl: "40rem",
+              }}
               transition="all 300ms"
               _hover={{
                 transform: "rotate(0)",
@@ -98,10 +108,7 @@ function AboutSectionComponent(): React.JSX.Element {
                   fontSize={{ base: "1.75rem", lg: "2rem" }}
                 >
                   Hello👋 i&apos;am{" "}
-                  <Text
-                    as="span"
-                    color="primary"
-                  >
+                  <Text as="span" color="primary">
                     {name}
                   </Text>
                 </Text>
@@ -114,17 +121,11 @@ function AboutSectionComponent(): React.JSX.Element {
                   fontSize={{ base: "xl", lg: "2xl" }}
                 >
                   A{" "}
-                  <Text
-                    as="span"
-                    color="primary"
-                  >
-                    {divisions[0]}🧑‍💻
+                  <Text as="span" color="primary">
+                    FullStack Developer🧑‍💻
                   </Text>{" "}
                   based in{" "}
-                  <Text
-                    as="span"
-                    color="primary"
-                  >
+                  <Text as="span" color="primary">
                     {region}🌏
                   </Text>
                 </Text>
@@ -154,7 +155,11 @@ function AboutSectionComponent(): React.JSX.Element {
                 marginTop={6}
                 columnGap={{ base: 0, lg: "1.5rem" }}
                 rowGap={{ base: "1rem", lg: 0 }}
-                templateColumns={{ base: "1fr", md: "repeat(2, 1fr)", lg: "repeat(3, 1fr)" }}
+                templateColumns={{
+                  base: "1fr",
+                  md: "repeat(2, 1fr)",
+                  lg: "repeat(3, 1fr)",
+                }}
                 placeItems={{ base: "center", lg: "start" }}
               >
                 {experiences.map(
@@ -162,12 +167,14 @@ function AboutSectionComponent(): React.JSX.Element {
                     <GridItem
                       key={`experience - ${index}`}
                       as={motion.div}
-                      variants={fadeInTransition("left", "spring", index * 0.5, 0.75)}
+                      variants={fadeInTransition(
+                        "left",
+                        "spring",
+                        index * 0.5,
+                        0.75
+                      )}
                     >
-                      <AboutExperienceCard
-                        number={number}
-                        title={title}
-                      />
+                      <AboutExperienceCard number={number} title={title} />
                     </GridItem>
                   )
                 )}

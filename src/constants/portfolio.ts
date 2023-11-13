@@ -69,6 +69,46 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
+    title: "My Personal Profile",
+    imageThumbnail: "/assets/images/project-03.png",
+    description:
+      "This is a personal branding project that I created using Tailwind CSS and Bootstap. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+    livePreviewURL: "https://projectprofilebuyr.vercel.app/",
+    repositoryURL: "https://github.com/ibrahimelgibran/PersonalProfilBuyr/",
+    techStack: [
+      {
+        tech: "TailwindS",
+        logo: "/assets/svg/tailwind.svg",
+      },
+      {
+        tech: "Bootstrap",
+        logo: "/assets/svg/bootstrap.svg",
+      },
+    ],
+  },
+  {
+    title: "Berbrandstuff",
+    imageThumbnail: "/assets/images/project-07.png",
+    description:
+      "This is a personal profile website Berbrandstuff project that I created using HTML, CSS, Bootstap, Javascript. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+    livePreviewURL: "https://berbrandstuff.vercel.app/",
+    repositoryURL: "https://github.com/ibrahimelgibran/berbrandstuff",
+    techStack: [
+      {
+        tech: "HTML5",
+        logo: "/assets/svg/html.svg",
+      },
+      {
+        tech: "Bootstrap",
+        logo: "/assets/svg/bootstrap.svg",
+      },
+      {
+        tech: "Javascript",
+        logo: "/assets/svg/javascript.svg",
+      },
+    ],
+  },
+  {
     title: "Web Simple Anime List",
     imageThumbnail: "/assets/images/project-04.png",
     description:
@@ -83,24 +123,6 @@ export const portfolioList: Portfolio[] = [
       {
         tech: "Tailwind CSS",
         logo: "/assets/svg/tailwind.svg",
-      },
-    ],
-  },
-  {
-    title: "My Personal Portfolio",
-    imageThumbnail: "/assets/images/project-03.png",
-    description:
-      "This is a personal branding project that I created using Tailwind CSS and Bootstap. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
-    livePreviewURL: "https://projectprofilebuyr.vercel.app/",
-    repositoryURL: "https://github.com/ibrahimelgibran/PersonalProfilBuyr/",
-    techStack: [
-      {
-        tech: "TailwindS",
-        logo: "/assets/svg/tailwind.svg",
-      },
-      {
-        tech: "Bootstrap",
-        logo: "/assets/svg/bootstrap.svg",
       },
     ],
   },

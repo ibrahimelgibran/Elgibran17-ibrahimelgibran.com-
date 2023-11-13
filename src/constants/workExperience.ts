@@ -7,7 +7,7 @@ export const workExperienceList: WorkExperience[] = [
     years: "2023 - Now",
     jobStatus: "Internship",
     jobDescription:
-      "Responsible for creating site-wide food menu profiles and taking orders.",
+      "Responsible for creating several PPDB features, dashboards for teachers, students, employees and many more such as search filters and form validation.",
     techStack: [
       "/assets/svg/codeigniter.svg",
       "/assets/svg/bootstrap.svg",
@@ -21,11 +21,24 @@ export const workExperienceList: WorkExperience[] = [
     years: "2023 - Now",
     jobStatus: "Full Time",
     jobDescription:
-      "Responsible for making several features found on the ADMTC and EDH platforms such as Search Filters and Form Validation.",
+      "Responsible for creating site-wide food menu profiles and taking orders.",
     techStack: [
       "/assets/svg/tailwind.svg",
       "/assets/svg/vite.svg",
       "/assets/svg/bootstrap.svg",
+    ],
+  },
+  {
+    jobDesk: "Frondend Developer",
+    companyName: "Berbrandstuff",
+    years: "2019 - Now",
+    jobStatus: "Full Time",
+    jobDescription:
+      "Website Persoal Profile Berbrandstuff in the clothing and clothing property sector.",
+    techStack: [
+      "/assets/svg/html.svg",
+      "/assets/svg/bootstrap.svg",
+      "/assets/svg/javascript.svg",
     ],
   },
 ];
