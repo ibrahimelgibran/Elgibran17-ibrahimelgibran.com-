@@ -22,7 +22,7 @@ export const socialMediaList: SocialMedia[] = [
   },
   {
     SocialMediaIcon: FaTiktok,
-    link: "https://www.tiktok.com/@elgibran1729/",
+    link: "https://www.tiktok.com/@ibrahimelgibran17/",
   },
   {
     SocialMediaIcon: FaDiscord,

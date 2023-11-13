@@ -7,7 +7,7 @@ export const workExperienceList: WorkExperience[] = [
     years: "2023 - Now",
     jobStatus: "Internship",
     jobDescription:
-      "Responsible for creating several PPDB features, dashboards for teachers, students, employees and many more such as search filters and form validation.",
+      "Responsible for creating several PPDB 2024 - 2025 features, dashboards for teachers, students, employees and many more such as search filters and form validation.",
     techStack: [
       "/assets/svg/codeigniter.svg",
       "/assets/svg/bootstrap.svg",
@@ -27,6 +27,15 @@ export const workExperienceList: WorkExperience[] = [
       "/assets/svg/vite.svg",
       "/assets/svg/bootstrap.svg",
     ],
+  },
+  {
+    jobDesk: "Full Stack Developer",
+    companyName: "Elbran",
+    years: "2022 - Now",
+    jobStatus: "Full Time",
+    jobDescription:
+      "I create stunning website for your business, Intermediate experienced in web design and development..",
+    techStack: ["/assets/svg/react.svg", "/assets/svg/node js.svg"],
   },
   {
     jobDesk: "Frondend Developer",

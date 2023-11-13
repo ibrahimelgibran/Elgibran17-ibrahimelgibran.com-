@@ -50,7 +50,7 @@ export const portfolioList: Portfolio[] = [
     title: "Website Profile PPDB",
     imageThumbnail: "/assets/images/project-06.png",
     description:
-      "This is a Wbsite Profile PPDB 2024-2025 project that I created using Codeigniter 3, Bootstrap, MySQL. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+      "Coming Soon! This is a Website Profile PPDB 2024-2025 project that I created using Codeigniter 3, Bootstrap, MySQL. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
     livePreviewURL: "https://github.com/ibrahimelgibran/ci-Eskamuga/",
     repositoryURL: "https://github.com/ibrahimelgibran/ci-Eskamuga/",
     techStack: [
@@ -73,8 +73,8 @@ export const portfolioList: Portfolio[] = [
     imageThumbnail: "/assets/images/project-03.png",
     description:
       "This is a personal branding project that I created using Tailwind CSS and Bootstap. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
-    livePreviewURL: "https://projectprofilebuyr.vercel.app/",
-    repositoryURL: "https://github.com/ibrahimelgibran/PersonalProfilBuyr/",
+    livePreviewURL: "https://ibrahimelgibran.github.io/PersonalTemplate/",
+    repositoryURL: "https://github.com/ibrahimelgibran/PersonalTemplate/",
     techStack: [
       {
         tech: "TailwindS",
@@ -113,8 +113,8 @@ export const portfolioList: Portfolio[] = [
     imageThumbnail: "/assets/images/project-04.png",
     description:
       "This is a Anime List project that I created using React JS And Tailwind CSS. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
-    livePreviewURL: "https://projectprofilebuyr.vercel.app/",
-    repositoryURL: "https://github.com/ibrahimelgibran/PersonalProfilBuyr/",
+    livePreviewURL: "https://anime-list-lyart.vercel.app/",
+    repositoryURL: "https://github.com/ibrahimelgibran/AnimeList/",
     techStack: [
       {
         tech: "Next JS",
