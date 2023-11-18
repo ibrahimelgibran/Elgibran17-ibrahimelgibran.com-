@@ -87,6 +87,28 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
+    title: "Soto Ijo Monjali",
+    imageThumbnail: "/assets/images/project-08.png",
+    description:
+      "This is a personal profile food stalls with various types of soto in the Yogyakarta area that I created using Sass, Bootstap and JavaScript. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+    livePreviewURL: "https://soim.vercel.app/",
+    repositoryURL: "https://github.com/ibrahimelgibran/soim/",
+    techStack: [
+      {
+        tech: "Sass",
+        logo: "/assets/svg/sass.svg",
+      },
+      {
+        tech: "Bootstrap",
+        logo: "/assets/svg/bootstrap.svg",
+      },
+      {
+        tech: "JavaScript",
+        logo: "/assets/svg/javascript.svg",
+      },
+    ],
+  },
+  {
     title: "Berbrandstuff",
     imageThumbnail: "/assets/images/project-07.png",
     description:

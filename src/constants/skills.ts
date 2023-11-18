@@ -14,6 +14,13 @@ export const skillList: Skill[] = [
     description: "CSS is the language we use to style an HTML document.",
   },
   {
+    skillIcon: "/assets/svg/sass.svg",
+    title: "Sass",
+    level: "Intermediate",
+    description:
+      "Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets.",
+  },
+  {
     skillIcon: "/assets/svg/javascript.svg",
     title: "JavaScript",
     level: "Advanced",

@@ -122,7 +122,7 @@ function AboutSectionComponent(): React.JSX.Element {
                 >
                   A{" "}
                   <Text as="span" color="primary">
-                    FullStack Developer🧑‍💻
+                    Full Stack Developer🧑‍💻
                   </Text>{" "}
                   based in{" "}
                   <Text as="span" color="primary">

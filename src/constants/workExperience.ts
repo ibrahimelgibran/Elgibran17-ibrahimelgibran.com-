@@ -5,7 +5,7 @@ export const workExperienceList: WorkExperience[] = [
     jobDesk: "Full Stack Developer",
     companyName: "Smk Muhammadiyah Gamping",
     years: "2023 - Now",
-    jobStatus: "Internship",
+    jobStatus: "Full Time",
     jobDescription:
       "Responsible for creating several PPDB 2024 - 2025 features, dashboards for teachers, students, employees and many more such as search filters and form validation.",
     techStack: [
@@ -23,9 +23,9 @@ export const workExperienceList: WorkExperience[] = [
     jobDescription:
       "Responsible for creating site-wide food menu profiles and taking orders.",
     techStack: [
-      "/assets/svg/tailwind.svg",
-      "/assets/svg/vite.svg",
+      "/assets/svg/sass.svg",
       "/assets/svg/bootstrap.svg",
+      "/assets/svg/javascript.svg",
     ],
   },
   {
@@ -49,5 +49,14 @@ export const workExperienceList: WorkExperience[] = [
       "/assets/svg/bootstrap.svg",
       "/assets/svg/javascript.svg",
     ],
+  },
+  {
+    jobDesk: "Backend Developer",
+    companyName: "BUYR",
+    years: "2023 June - 2023 September ",
+    jobStatus: "Internship",
+    jobDescription:
+      "Payment system from a personal smartphone via direct scan with a product that has a QR Code.",
+    techStack: ["/assets/svg/node Js.svg", "/assets/svg/express.svg"],
   },
 ];
