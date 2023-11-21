@@ -57,6 +57,6 @@ export const workExperienceList: WorkExperience[] = [
     jobStatus: "Internship",
     jobDescription:
       "Payment system from a personal smartphone via direct scan with a product that has a QR Code.",
-    techStack: ["/assets/svg/node Js.svg", "/assets/svg/express.svg"],
+    techStack: ["/assets/svg/node js.svg", "/assets/svg/express.svg"],
   },
 ];

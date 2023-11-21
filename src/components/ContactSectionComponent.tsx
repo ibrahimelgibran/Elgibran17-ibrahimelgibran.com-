@@ -266,7 +266,7 @@ function ContactSectionComponent(): React.JSX.Element {
                       <FormLabel>Your Subject</FormLabel>
                       <Input
                         id="subject"
-                        placeholder="Your Subject. Example: Hey, I Wanna Collaborate"
+                        placeholder="Your Subject. Example: Hey, I Gibran Collaborate"
                         borderWidth="2px"
                         paddingY={8}
                         paddingX={4}
@@ -308,7 +308,7 @@ function ContactSectionComponent(): React.JSX.Element {
                       <FormLabel>Your Message</FormLabel>
                       <Textarea
                         id="message"
-                        placeholder="Your Message. Example: Hey, I Wanna Collaborate Because I Have A Project"
+                        placeholder="Your Message. Example: Hey, I Gibran Collaborate Because I Have A Project"
                         resize="none"
                         size="md"
                         borderWidth="2px"
