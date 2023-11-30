@@ -87,6 +87,28 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
+    title: "CMS Eskamuga",
+    imageThumbnail: "/assets/images/project-09.png",
+    description:
+      "Coming Soon! This is a CMS ESKAMUGA project that I created using PHP, Codeignither 4 and MySQL. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+    livePreviewURL: "#",
+    repositoryURL: "#",
+    techStack: [
+      {
+        tech: "PHP",
+        logo: "/assets/svg/php.svg",
+      },
+      {
+        tech: "CODEIGNITER 4",
+        logo: "/assets/svg/codeigniter.svg",
+      },
+      {
+        tech: "MYSQL",
+        logo: "/assets/svg/mysql.svg",
+      },
+    ],
+  },
+  {
     title: "Soto Ijo Monjali",
     imageThumbnail: "/assets/images/project-08.png",
     description:
