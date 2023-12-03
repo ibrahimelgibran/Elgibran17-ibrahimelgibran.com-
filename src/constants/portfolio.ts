@@ -153,10 +153,10 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
-    title: "Web Simple Anime List",
+    title: "AnimeList API Jikan",
     imageThumbnail: "/assets/images/project-04.png",
     description:
-      "This is a Anime List project that I created using React JS And Tailwind CSS. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+      "This is a Anime List project that I created using React JS And Tailwind CSS connect to API Jikan. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
     livePreviewURL: "https://anime-list-lyart.vercel.app/",
     repositoryURL: "https://github.com/ibrahimelgibran/AnimeList/",
     techStack: [
