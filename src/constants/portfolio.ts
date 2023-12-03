@@ -171,6 +171,28 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
+    title: "Eskamuga BKK & E-Learing",
+    imageThumbnail: "/assets/images/project-10.png",
+    description:
+      "This is a Web Profile Add Fiture BKK, E-Learing and Page Gallery from CMS ESKAMUGA Tech Stack HTML5, CSS3, BOOTSTRAP, JAVASCRIPT. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+    livePreviewURL: "https://eskamuga.vercel.app/",
+    repositoryURL: "https://github.com/ibrahimelgibran/BKKandE-Learing",
+    techStack: [
+      {
+        tech: "HTML5",
+        logo: "/assets/svg/html.svg",
+      },
+      {
+        tech: "Vanila CSS",
+        logo: "/assets/svg/tailwind.svg",
+      },
+      {
+        tech: "JavaScript",
+        logo: "/assets/svg/javascript.svg",
+      },
+    ],
+  },
+  {
     title: "Movie Api TMDB",
     imageThumbnail: "/assets/images/project-05.png",
     description:
