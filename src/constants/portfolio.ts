@@ -113,7 +113,7 @@ export const portfolioList: Portfolio[] = [
     imageThumbnail: "/assets/images/project-11.png",
     description:
       "This is a IegcodeTube is a youtube's clone website that i've created using React JS, Material UI and RapidAPI as data API for learning purposes. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
-    livePreviewURL: "https://iegcodemovie.vercel.app/",
+    livePreviewURL: "https://iegcodetube.vercel.app/",
     repositoryURL: "https://github.com/ibrahimelgibran/YoutubeClone",
     techStack: [
       {
