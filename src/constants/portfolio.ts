@@ -228,4 +228,26 @@ export const portfolioList: Portfolio[] = [
       },
     ],
   },
+  {
+    title: "Link in Bio",
+    imageThumbnail: "/assets/images/project-12.png",
+    description:
+      "This is a Testing Movie API TMDB project that I created using React JS. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+    livePreviewURL: "https://iegcodelink.vercel.app/",
+    repositoryURL: "https://github.com/ibrahimelgibran/link-in-bio/",
+    techStack: [
+      {
+        tech: "HTML",
+        logo: "/assets/svg/html.svg",
+      },
+      {
+        tech: "CSS",
+        logo: "/assets/svg/css.svg",
+      },
+      {
+        tech: "JavaScript",
+        logo: "/assets/svg/javascript.svg",
+      },
+    ],
+  },
 ];
