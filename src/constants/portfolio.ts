@@ -241,7 +241,7 @@ export const portfolioList: Portfolio[] = [
         logo: "/assets/svg/html.svg",
       },
       {
-        tech: "CSS",
+        tech: "Vanila CSS",
         logo: "/assets/svg/css.svg",
       },
       {
