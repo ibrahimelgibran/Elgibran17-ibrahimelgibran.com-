@@ -17,7 +17,7 @@ export default function HeaderMetadata(): React.JSX.Element {
       />
       <meta name="author" content="Ibrahim El Gibran" />
 
-      <link rel="icon" href="./assets/images/home-profile.png" />
+      <link rel="icon" href="../assets/images/home-profile.png" />
     </Head>
   );
 }

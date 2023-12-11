@@ -171,6 +171,28 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
+    title: "Undangan WeddingV2",
+    imageThumbnail: "/assets/images/project-14.png",
+    description:
+      "This is a Web Wedding version 2 and own fiture mp3, O'clock, Maps, Save date, gallery photo, animation loading dll. that I created using HTML, CSS, Bootstap, Javascript. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+    livePreviewURL: "iegcodeweddingv2.vercel.app/",
+    repositoryURL: "https://github.com/ibrahimelgibran/UndanganPernikahanV2/",
+    techStack: [
+      {
+        tech: "HTML5",
+        logo: "/assets/svg/html.svg",
+      },
+      {
+        tech: "Bootstrap",
+        logo: "/assets/svg/bootstrap.svg",
+      },
+      {
+        tech: "Javascript",
+        logo: "/assets/svg/javascript.svg",
+      },
+    ],
+  },
+  {
     title: "AnimeList API Jikan",
     imageThumbnail: "/assets/images/project-04.png",
     description:
@@ -195,6 +217,28 @@ export const portfolioList: Portfolio[] = [
       "This is a Web Profile Add Fiture BKK, E-Learing and Page Gallery from CMS ESKAMUGA Tech Stack HTML5, CSS3, BOOTSTRAP, JAVASCRIPT. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
     livePreviewURL: "https://eskamuga.vercel.app/",
     repositoryURL: "https://github.com/ibrahimelgibran/BKKandE-Learing",
+    techStack: [
+      {
+        tech: "HTML5",
+        logo: "/assets/svg/html.svg",
+      },
+      {
+        tech: "Vanila CSS",
+        logo: "/assets/svg/tailwind.svg",
+      },
+      {
+        tech: "JavaScript",
+        logo: "/assets/svg/javascript.svg",
+      },
+    ],
+  },
+  {
+    title: "Undangan Wedding",
+    imageThumbnail: "/assets/images/project-13.png",
+    description:
+      "This is a Web Wedding digital and many fiture complite like mp3, maps, photo, O'clock, chat live congratulations. Tech Stack HTML5, CSS3, BOOTSTRAP, JAVASCRIPT. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+    livePreviewURL: "https://iegcodewedding.vercel.app/",
+    repositoryURL: "https://github.com/ibrahimelgibran/Undangan-Pernikahan/",
     techStack: [
       {
         tech: "HTML5",
