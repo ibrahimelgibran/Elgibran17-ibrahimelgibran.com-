@@ -119,6 +119,20 @@ export const skillList: Skill[] = [
       "Material UI is a CSS framework that provides React components out-of-the-box and follows Google’s Material Design.",
   },
   {
+    skillIcon: "/assets/svg/java.svg",
+    title: "Java",
+    level: "Basic",
+    description:
+      "Java is a programming language that can be run on various computers including mobile phones. This language was originally created by James Gosling when he was still at Sun Microsystems, which is now part of Oracle and was released in 1995.",
+  },
+  {
+    skillIcon: "/assets/svg/kotlin.svg",
+    title: "Kotlin",
+    level: "Basic",
+    description:
+      "Kotlin is a modern but already mature programming language designed to make developers happier. It's concise, safe, interoperable with Java and other languages, and provides many ways to reuse code between multiple platforms for productive programming.",
+  },
+  {
     skillIcon: "/assets/svg/dart.svg",
     title: "Dart",
     level: "Basic",
