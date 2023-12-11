@@ -69,24 +69,6 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
-    title: "My Personal Profile",
-    imageThumbnail: "/assets/images/project-03.png",
-    description:
-      "This is a personal branding project that I created using Tailwind CSS and Bootstap. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
-    livePreviewURL: "https://ibrahimelgibran.github.io/PersonalTemplate/",
-    repositoryURL: "https://github.com/ibrahimelgibran/PersonalTemplate/",
-    techStack: [
-      {
-        tech: "TailwindS",
-        logo: "/assets/svg/tailwind.svg",
-      },
-      {
-        tech: "Bootstrap",
-        logo: "/assets/svg/bootstrap.svg",
-      },
-    ],
-  },
-  {
     title: "CMS Eskamuga",
     imageThumbnail: "/assets/images/project-09.png",
     description:
@@ -123,6 +105,46 @@ export const portfolioList: Portfolio[] = [
       {
         tech: "Material UI",
         logo: "/assets/svg/material ui.svg",
+      },
+    ],
+  },
+  {
+    title: "CBT Online",
+    imageThumbnail: "/assets/images/project-15.png",
+    description:
+      "This is a CBT online SMK MUHAMMADIYAH GAMPING for students ESKAMUGA with own fiture complite, i created using tech stack Codeigniter 4, CSS, Bootstrap, JavaScript, MYSQL. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+    livePreviewURL: "#",
+    repositoryURL: "#",
+    techStack: [
+      {
+        tech: "PHP",
+        logo: "/assets/svg/php.svg",
+      },
+      {
+        tech: "CODEIGNITER 4",
+        logo: "/assets/svg/codeigniter.svg",
+      },
+      {
+        tech: "MYSQL",
+        logo: "/assets/svg/mysql.svg",
+      },
+    ],
+  },
+  {
+    title: "My Personal Profile",
+    imageThumbnail: "/assets/images/project-03.png",
+    description:
+      "This is a personal branding project that I created using Tailwind CSS and Bootstap. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+    livePreviewURL: "https://ibrahimelgibran.github.io/PersonalTemplate/",
+    repositoryURL: "https://github.com/ibrahimelgibran/PersonalTemplate/",
+    techStack: [
+      {
+        tech: "TailwindS",
+        logo: "/assets/svg/tailwind.svg",
+      },
+      {
+        tech: "Bootstrap",
+        logo: "/assets/svg/bootstrap.svg",
       },
     ],
   },
