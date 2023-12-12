@@ -109,24 +109,20 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
-    title: "CBT Online",
-    imageThumbnail: "/assets/images/project-15.png",
+    title: "Management Cource Data",
+    imageThumbnail: "/assets/images/project-16.png",
     description:
-      "This is a CBT online SMK MUHAMMADIYAH GAMPING for students ESKAMUGA with own fiture complite, i created using tech stack Codeigniter 4, CSS, Bootstrap, JavaScript, MYSQL. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
-    livePreviewURL: "#",
-    repositoryURL: "#",
+      "This is a Management of Cource Student Data With System Dashbaord, CRUD and Tech Stack PHP Versi 8, MYSQL, CSS, BOOTSTRAP 5. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+    livePreviewURL: "https://github.com/ibrahimelgibran/PBD-UAS-CRUD",
+    repositoryURL: "https://github.com/ibrahimelgibran/PBD-UAS-CRUD",
     techStack: [
       {
-        tech: "PHP",
-        logo: "/assets/svg/php.svg",
+        tech: "TailwindS",
+        logo: "/assets/svg/tailwind.svg",
       },
       {
-        tech: "CODEIGNITER 4",
-        logo: "/assets/svg/codeigniter.svg",
-      },
-      {
-        tech: "MYSQL",
-        logo: "/assets/svg/mysql.svg",
+        tech: "Bootstrap",
+        logo: "/assets/svg/bootstrap.svg",
       },
     ],
   },
@@ -145,6 +141,28 @@ export const portfolioList: Portfolio[] = [
       {
         tech: "Bootstrap",
         logo: "/assets/svg/bootstrap.svg",
+      },
+    ],
+  },
+  {
+    title: "CBT Online",
+    imageThumbnail: "/assets/images/project-15.png",
+    description:
+      "This is a CBT online SMK MUHAMMADIYAH GAMPING for students ESKAMUGA with own fiture complite, i created using tech stack Codeigniter 4, CSS, Bootstrap, JavaScript, MYSQL. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+    livePreviewURL: "#",
+    repositoryURL: "#",
+    techStack: [
+      {
+        tech: "PHP",
+        logo: "/assets/svg/php.svg",
+      },
+      {
+        tech: "CODEIGNITER 4",
+        logo: "/assets/svg/codeigniter.svg",
+      },
+      {
+        tech: "MYSQL",
+        logo: "/assets/svg/mysql.svg",
       },
     ],
   },
