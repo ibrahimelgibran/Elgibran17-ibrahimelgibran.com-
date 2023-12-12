@@ -14,8 +14,10 @@ import { fadeInTransition, staggeredContainer, truncateList } from "@/utils";
 import SectionLayout from "@/layouts/SectionLayout";
 import type { Portfolio } from "@/types";
 
+// ... (your imports remain unchanged)
+
 function PortfolioSectionComponent(): React.JSX.Element {
-  const truncatedPortfolioList: Portfolio[] = truncateList(portfolioList, 0, 6);
+  const truncatedPortfolioList: Portfolio[] = truncateList(portfolioList, 0, 9);
 
   return (
     <Box
@@ -46,9 +48,9 @@ function PortfolioSectionComponent(): React.JSX.Element {
         >
           <SectionSubtitle>Project I&apos;ve Created💼</SectionSubtitle>
           <SectionDescription>
-            I&apos;ve created a few project while i was learing about frontend
-            and backend website development. and all of project i&apos;ll
-            explain below
+            I&apos;ve created a few projects while learning about frontend and
+            backend website development. All of the projects I&apos;ll explain
+            below.
           </SectionDescription>
         </Flex>
 

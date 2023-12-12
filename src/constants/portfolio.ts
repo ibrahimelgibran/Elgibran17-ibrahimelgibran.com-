@@ -69,6 +69,28 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
+    title: "Management Cource Data",
+    imageThumbnail: "/assets/images/project-16.png",
+    description:
+      "This is a Management of Cource Student Data With System Dashbaord, CRUD and Tech Stack PHP Versi 8, MYSQL, CSS, BOOTSTRAP 5. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+    livePreviewURL: "https://github.com/ibrahimelgibran/PBD-UAS-CRUD",
+    repositoryURL: "https://github.com/ibrahimelgibran/PBD-UAS-CRUD",
+    techStack: [
+      {
+        tech: "PHP",
+        logo: "/assets/svg/php.svg",
+      },
+      {
+        tech: "Bootstrap",
+        logo: "/assets/svg/bootstrap.svg",
+      },
+      {
+        tech: "MYSQL",
+        logo: "/assets/svg/mysql.svg",
+      },
+    ],
+  },
+  {
     title: "CMS Eskamuga",
     imageThumbnail: "/assets/images/project-09.png",
     description:
@@ -109,24 +131,20 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
-    title: "Management Cource Data",
-    imageThumbnail: "/assets/images/project-16.png",
+    title: "Github Clone",
+    imageThumbnail: "/assets/images/project-17.png",
     description:
-      "This is a Management of Cource Student Data With System Dashbaord, CRUD and Tech Stack PHP Versi 8, MYSQL, CSS, BOOTSTRAP 5. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
-    livePreviewURL: "https://github.com/ibrahimelgibran/PBD-UAS-CRUD",
-    repositoryURL: "https://github.com/ibrahimelgibran/PBD-UAS-CRUD",
+      "This is a Implement an API fetch of your GitHub portfolio, show a page with a list of all your repositories on GitHub, and show another page linking to each repo using nested routes while using all the necessary tools in react. Implement the proper SEO, Error Boundary (show a page to test the error boundary) and 404 pages. Good UI and Designs are important. Tech Stack ReactJS and Vanila CSS. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+    livePreviewURL: "https://iegcodegithub.vercel.app/",
+    repositoryURL: "https://github.com/ibrahimelgibran/GithubPortfolio",
     techStack: [
       {
-        tech: "PHP",
-        logo: "/assets/svg/php.svg",
+        tech: "ReactJS",
+        logo: "/assets/svg/react.svg",
       },
       {
-        tech: "Bootstrap",
-        logo: "/assets/svg/bootstrap.svg",
-      },
-      {
-        tech: "MYSQL",
-        logo: "/assets/svg/mysql.svg",
+        tech: "Vanila CSS",
+        logo: "/assets/svg/css.svg",
       },
     ],
   },
