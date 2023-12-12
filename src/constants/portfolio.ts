@@ -117,12 +117,16 @@ export const portfolioList: Portfolio[] = [
     repositoryURL: "https://github.com/ibrahimelgibran/PBD-UAS-CRUD",
     techStack: [
       {
-        tech: "TailwindS",
-        logo: "/assets/svg/tailwind.svg",
+        tech: "PHP",
+        logo: "/assets/svg/php.svg",
       },
       {
         tech: "Bootstrap",
         logo: "/assets/svg/bootstrap.svg",
+      },
+      {
+        tech: "MYSQL",
+        logo: "/assets/svg/mysql.svg",
       },
     ],
   },
