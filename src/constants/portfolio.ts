@@ -237,7 +237,7 @@ export const portfolioList: Portfolio[] = [
     imageThumbnail: "/assets/images/project-14.png",
     description:
       "This is a Web Wedding version 2 and own fiture mp3, O'clock, Maps, Save date, gallery photo, animation loading dll. that I created using HTML, CSS, Bootstap, Javascript. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
-    livePreviewURL: "iegcodeweddingv2.vercel.app/",
+    livePreviewURL: "https://iegcodeweddingv2.vercel.app/",
     repositoryURL: "https://github.com/ibrahimelgibran/UndanganPernikahanV2/",
     techStack: [
       {
@@ -295,7 +295,7 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
-    title: "Undangan Wedding",
+    title: "Undangan WeddingV1",
     imageThumbnail: "/assets/images/project-13.png",
     description:
       "This is a Web Wedding digital and many fiture complite like mp3, maps, photo, O'clock, chat live congratulations. Tech Stack HTML5, CSS3, BOOTSTRAP, JAVASCRIPT. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
