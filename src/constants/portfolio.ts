@@ -50,7 +50,7 @@ export const portfolioList: Portfolio[] = [
     imageThumbnail: "/assets/images/project-06.png",
     description:
       "Coming Soon! This is a Website Profile PPDB 2024-2025 project that I created using Codeigniter 3, Bootstrap, MySQL. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
-    livePreviewURL: "https://github.com/ibrahimelgibran/ci-Eskamuga/",
+    livePreviewURL: "#",
     repositoryURL: "#",
     techStack: [
       {
@@ -64,6 +64,24 @@ export const portfolioList: Portfolio[] = [
       {
         tech: "MySQL",
         logo: "/assets/svg/mysql.svg",
+      },
+    ],
+  },
+  {
+    title: "IegCode Busniess",
+    imageThumbnail: "/assets/images/project-18.png",
+    description:
+      "This is a WebApp Busniess Tech Stack Next Js, Tailwind CSS. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+    livePreviewURL: "https://www.iegcodestore.my.id/",
+    repositoryURL: "#",
+    techStack: [
+      {
+        tech: "Next JS",
+        logo: "/assets/svg/next js.svg",
+      },
+      {
+        tech: "Tailwind",
+        logo: "/assets/svg/tailwind.svg",
       },
     ],
   },
