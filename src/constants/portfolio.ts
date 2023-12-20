@@ -7,8 +7,7 @@ export const portfolioList: Portfolio[] = [
     description:
       "This is a personal branding project that I created using Next JS, Tailwind CSS, and Framer Motion. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
     livePreviewURL: "https://ibrahimelgibran.com/",
-    repositoryURL:
-      "https://github.com/ibrahimelgibran/Ibrahim-El-Gibran-Personal-Portfolio.git",
+    repositoryURL: "#",
     techStack: [
       {
         tech: "Next JS",
@@ -30,7 +29,7 @@ export const portfolioList: Portfolio[] = [
     description:
       "This is a startup branding project that I created using React JS, Tailwind CSS, and Vite. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
     livePreviewURL: "https://projectprofilebuyr.vercel.app/",
-    repositoryURL: "https://github.com/ibrahimelgibran/PersonalProfilBuyr/",
+    repositoryURL: "#",
     techStack: [
       {
         tech: "React JS",
@@ -52,7 +51,7 @@ export const portfolioList: Portfolio[] = [
     description:
       "Coming Soon! This is a Website Profile PPDB 2024-2025 project that I created using Codeigniter 3, Bootstrap, MySQL. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
     livePreviewURL: "https://github.com/ibrahimelgibran/ci-Eskamuga/",
-    repositoryURL: "https://github.com/ibrahimelgibran/ci-Eskamuga/",
+    repositoryURL: "#",
     techStack: [
       {
         tech: "PHP",
@@ -73,8 +72,8 @@ export const portfolioList: Portfolio[] = [
     imageThumbnail: "/assets/images/project-16.png",
     description:
       "This is a Management of Cource Student Data With System Dashbaord, CRUD and Tech Stack PHP Versi 8, MYSQL, CSS, BOOTSTRAP 5. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
-    livePreviewURL: "https://github.com/ibrahimelgibran/PBD-UAS-CRUD",
-    repositoryURL: "https://github.com/ibrahimelgibran/PBD-UAS-CRUD",
+    livePreviewURL: "#",
+    repositoryURL: "#",
     techStack: [
       {
         tech: "PHP",
@@ -118,7 +117,7 @@ export const portfolioList: Portfolio[] = [
     description:
       "This is a IegcodeTube is a youtube's clone website that i've created using React JS, Material UI and RapidAPI as data API for learning purposes. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
     livePreviewURL: "https://iegcodetube.vercel.app/",
-    repositoryURL: "https://github.com/ibrahimelgibran/YoutubeClone",
+    repositoryURL: "#",
     techStack: [
       {
         tech: "React JS",
@@ -136,7 +135,7 @@ export const portfolioList: Portfolio[] = [
     description:
       "This is a Implement an API fetch of your GitHub portfolio, show a page with a list of all your repositories on GitHub, and show another page linking to each repo using nested routes while using all the necessary tools in react. Implement the proper SEO, Error Boundary (show a page to test the error boundary) and 404 pages. Good UI and Designs are important. Tech Stack ReactJS and Vanila CSS. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
     livePreviewURL: "https://iegcodegithub.vercel.app/",
-    repositoryURL: "https://github.com/ibrahimelgibran/GithubPortfolio",
+    repositoryURL: "#",
     techStack: [
       {
         tech: "ReactJS",
@@ -154,7 +153,7 @@ export const portfolioList: Portfolio[] = [
     description:
       "This is a personal branding project that I created using Tailwind CSS and Bootstap. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
     livePreviewURL: "https://ibrahimelgibran.github.io/PersonalTemplate/",
-    repositoryURL: "https://github.com/ibrahimelgibran/PersonalTemplate/",
+    repositoryURL: "#",
     techStack: [
       {
         tech: "TailwindS",
@@ -194,7 +193,7 @@ export const portfolioList: Portfolio[] = [
     description:
       "This is a personal profile food stalls with various types of soto in the Yogyakarta area that I created using Sass, Bootstap and JavaScript. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
     livePreviewURL: "https://sotoijomonjali.com/",
-    repositoryURL: "https://github.com/ibrahimelgibran/soim/",
+    repositoryURL: "#",
     techStack: [
       {
         tech: "Sass",
@@ -216,7 +215,7 @@ export const portfolioList: Portfolio[] = [
     description:
       "This is a personal profile website Berbrandstuff project that I created using HTML, CSS, Bootstap, Javascript. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
     livePreviewURL: "https://berbrandstuff.vercel.app/",
-    repositoryURL: "https://github.com/ibrahimelgibran/berbrandstuff",
+    repositoryURL: "#",
     techStack: [
       {
         tech: "HTML5",
@@ -238,7 +237,7 @@ export const portfolioList: Portfolio[] = [
     description:
       "This is a Web Wedding version 2 and own fiture mp3, O'clock, Maps, Save date, gallery photo, animation loading dll. that I created using HTML, CSS, Bootstap, Javascript. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
     livePreviewURL: "https://iegcodeweddingv2.vercel.app/",
-    repositoryURL: "https://github.com/ibrahimelgibran/UndanganPernikahanV2/",
+    repositoryURL: "#",
     techStack: [
       {
         tech: "HTML5",
@@ -260,7 +259,7 @@ export const portfolioList: Portfolio[] = [
     description:
       "This is a Anime List project that I created using React JS And Tailwind CSS connect to API Jikan. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
     livePreviewURL: "https://anime-list-lyart.vercel.app/",
-    repositoryURL: "https://github.com/ibrahimelgibran/AnimeList/",
+    repositoryURL: "#",
     techStack: [
       {
         tech: "Next JS",
@@ -278,7 +277,7 @@ export const portfolioList: Portfolio[] = [
     description:
       "This is a Web Profile Add Fiture BKK, E-Learing and Page Gallery from CMS ESKAMUGA Tech Stack HTML5, CSS3, BOOTSTRAP, JAVASCRIPT. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
     livePreviewURL: "https://eskamuga.vercel.app/",
-    repositoryURL: "https://github.com/ibrahimelgibran/BKKandE-Learing",
+    repositoryURL: "#",
     techStack: [
       {
         tech: "HTML5",
@@ -300,7 +299,7 @@ export const portfolioList: Portfolio[] = [
     description:
       "This is a Web Wedding digital and many fiture complite like mp3, maps, photo, O'clock, chat live congratulations. Tech Stack HTML5, CSS3, BOOTSTRAP, JAVASCRIPT. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
     livePreviewURL: "https://iegcodewedding.vercel.app/",
-    repositoryURL: "https://github.com/ibrahimelgibran/Undangan-Pernikahan/",
+    repositoryURL: "#",
     techStack: [
       {
         tech: "HTML5",
@@ -322,7 +321,7 @@ export const portfolioList: Portfolio[] = [
     description:
       "This is a Testing Movie API TMDB project that I created using React JS. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
     livePreviewURL: "https://branmovietmbdapi.vercel.app/",
-    repositoryURL: "https://github.com/ibrahimelgibran/BranMovieTMDB/",
+    repositoryURL: "#",
     techStack: [
       {
         tech: "Recat JS",
@@ -340,7 +339,7 @@ export const portfolioList: Portfolio[] = [
     description:
       "This is a Create Link in Bio page from my profile Instagram tech stack HTML, CSS and JavaScript. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
     livePreviewURL: "https://iegcodelink.vercel.app/",
-    repositoryURL: "https://github.com/ibrahimelgibran/link-in-bio/",
+    repositoryURL: "#",
     techStack: [
       {
         tech: "HTML",
