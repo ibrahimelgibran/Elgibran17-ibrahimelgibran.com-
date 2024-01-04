@@ -51,14 +51,14 @@ export const skillList: Skill[] = [
   {
     skillIcon: "/assets/svg/next js.svg",
     title: "Next JS",
-    level: "Basic",
+    level: "Intermediate",
     description:
       "Next.js is a React framework that provides building blocks, features, and optimizations for web applications.",
   },
   {
     skillIcon: "/assets/svg/express.svg",
     title: "Express JS",
-    level: "Basic",
+    level: "Intermediate",
     description:
       "Express.js, or simply Express, is a back end web application framework for building RESTful APIs with Node.js",
   },
@@ -72,7 +72,7 @@ export const skillList: Skill[] = [
   {
     skillIcon: "/assets/svg/typescript.svg",
     title: "TypeScript",
-    level: "Basic",
+    level: "Intermediate",
     description:
       "TypeScript is a programming language that builds on JavaScript.",
   },
@@ -107,7 +107,7 @@ export const skillList: Skill[] = [
   {
     skillIcon: "/assets/svg/node js.svg",
     title: "Node JS",
-    level: "Basic",
+    level: "Intermediate",
     description:
       "Node.js is an asynchronous event-driven JavaScript runtime designed to build scalable network applications.",
   },
@@ -121,7 +121,7 @@ export const skillList: Skill[] = [
   {
     skillIcon: "/assets/svg/vite.svg",
     title: "Vite",
-    level: "Basic",
+    level: "Intermediate",
     description:
       "Vite is a front-end build tool that aims to provide a faster and leaner development experience for modern web projects.",
   },
