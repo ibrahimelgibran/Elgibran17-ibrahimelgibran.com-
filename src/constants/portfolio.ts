@@ -72,7 +72,7 @@ export const portfolioList: Portfolio[] = [
     imageThumbnail: "/assets/images/project-18.png",
     description:
       "This is a WebApp Busniess Tech Stack Next Js, Tailwind CSS. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
-    livePreviewURL: "https://www.iegcodestore.my.id/",
+    livePreviewURL: "https://iegcodestore.vercel.app/",
     repositoryURL: "#",
     techStack: [
       {
@@ -111,7 +111,7 @@ export const portfolioList: Portfolio[] = [
     title: "CMS Eskamuga",
     imageThumbnail: "/assets/images/project-09.png",
     description:
-      "Coming Soon! This is a CMS ESKAMUGA project that I created using PHP, Codeignither 4 and MySQL. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+      "This is a CMS ESKAMUGA project that I created using PHP, Codeignither 4 and MySQL. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
     livePreviewURL: "https://smksmuhammadiyahgamping.sch.id/",
     repositoryURL: "#",
     techStack: [
