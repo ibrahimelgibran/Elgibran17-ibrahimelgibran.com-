@@ -72,7 +72,7 @@ export const portfolioList: Portfolio[] = [
     imageThumbnail: "/assets/images/project-18.png",
     description:
       "This is a WebApp Busniess Tech Stack Next Js, Tailwind CSS. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
-    livePreviewURL: "https://iegcodestore.vercel.app/",
+    livePreviewURL: "https://www.iegcodestore.my.id/",
     repositoryURL: "#",
     techStack: [
       {
@@ -286,6 +286,28 @@ export const portfolioList: Portfolio[] = [
       {
         tech: "Tailwind CSS",
         logo: "/assets/svg/tailwind.svg",
+      },
+    ],
+  },
+  {
+    title: "Gemilang Multi Teknologi",
+    imageThumbnail: "/assets/images/project-19.png",
+    description:
+      "This is a Busniess WebApp Profil GMTcorp.id project that I created using HTML, CSS And JavaScript. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+    livePreviewURL: "https://gemilangmultiteknologi.my.id/",
+    repositoryURL: "#",
+    techStack: [
+      {
+        tech: "HTML",
+        logo: "/assets/svg/html.svg",
+      },
+      {
+        tech: "CSS",
+        logo: "/assets/svg/css.svg",
+      },
+      {
+        tech: "JavaScript",
+        logo: "/assets/svg/javascript.svg",
       },
     ],
   },
