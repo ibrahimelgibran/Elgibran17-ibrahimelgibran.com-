@@ -72,7 +72,7 @@ export const portfolioList: Portfolio[] = [
     imageThumbnail: "/assets/images/project-18.png",
     description:
       "This is a WebApp Busniess Tech Stack Next Js, Tailwind CSS. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
-    livePreviewURL: "https://www.iegcodestore.my.id/",
+    livePreviewURL: "https://www.iegcodestore.my.id/4",
     repositoryURL: "#",
     techStack: [
       {
@@ -352,6 +352,28 @@ export const portfolioList: Portfolio[] = [
       {
         tech: "JavaScript",
         logo: "/assets/svg/javascript.svg",
+      },
+    ],
+  },
+  {
+    title: "Resume Profil",
+    imageThumbnail: "/assets/images/project-20.png",
+    description:
+      "This is a Web Resume Profil Portfolio. Tech Stack Valina CSS, JavaScript, NodeJs. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+    livePreviewURL: "https://iegresumeportfolio.vercel.app/",
+    repositoryURL: "#",
+    techStack: [
+      {
+        tech: "JavaScript",
+        logo: "/assets/svg/javascript.svg",
+      },
+      {
+        tech: "NodeJs",
+        logo: "/assets/svg/node Js.svg",
+      },
+      {
+        tech: "Vanila CSS",
+        logo: "/assets/svg/css.svg",
       },
     ],
   },
