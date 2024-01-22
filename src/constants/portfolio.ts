@@ -50,7 +50,7 @@ export const portfolioList: Portfolio[] = [
     imageThumbnail: "/assets/images/project-06.png",
     description:
       "Coming Soon! This is a Website Profile PPDB 2024-2025 project that I created using Codeigniter 3, Bootstrap, MySQL. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
-    livePreviewURL: "#",
+    livePreviewURL: "https://ppdbv2.smksmuhammadiyahgamping.sch.id/",
     repositoryURL: "#",
     techStack: [
       {
