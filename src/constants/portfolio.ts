@@ -369,7 +369,7 @@ export const portfolioList: Portfolio[] = [
       },
       {
         tech: "NodeJs",
-        logo: "/assets/svg/node Js.svg",
+        logo: "/assets/svg/node js.svg",
       },
       {
         tech: "Vanila CSS",
