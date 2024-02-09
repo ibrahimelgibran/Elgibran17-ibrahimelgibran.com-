@@ -15,7 +15,7 @@ export const profileData: Profile = {
   ],
   experiences: [
     {
-      number: 1.5,
+      number: 1.6,
       title: "Years Of Experience",
     },
     {
