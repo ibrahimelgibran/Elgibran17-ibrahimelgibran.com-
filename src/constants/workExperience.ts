@@ -39,6 +39,19 @@ export const workExperienceList: WorkExperience[] = [
   },
   {
     jobDesk: "Frondend Developer",
+    companyName: "Gemilang Multi Teknologi",
+    years: "2022 - Now",
+    jobStatus: "Full Time",
+    jobDescription:
+      "Website Persoal Profile GMT in Development Your Busniess Platfrom Service.",
+    techStack: [
+      "/assets/svg/html.svg",
+      "/assets/svg/bootstrap.svg",
+      "/assets/svg/javascript.svg",
+    ],
+  },
+  {
+    jobDesk: "Frondend Developer",
     companyName: "Berbrandstuff",
     years: "2019 - Now",
     jobStatus: "Full Time",
