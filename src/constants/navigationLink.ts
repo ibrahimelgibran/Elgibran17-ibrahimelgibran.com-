@@ -25,10 +25,10 @@ export const navigationLinkList: NavigationLink[] = [
     title: "Portfolio",
     href: "portfolio",
   },
-  {
-    title: "Blog",
-    href: "blog",
-  },
+  // {
+  //   title: "Blog",
+  //   href: "blog",
+  // },
   {
     title: "Contact",
     href: "contact",

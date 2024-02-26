@@ -19,26 +19,26 @@ function BlogSectionComponent(): React.JSX.Element {
 
   return (
     <Box
-      as="section"
-      id="blog"
-      paddingTop="7.5rem"
-      paddingBottom="1rem"
-      width="100vw"
+    // as="section"
+    // id="blog"
+    // paddingTop="7.5rem"
+    // paddingBottom="1rem"
+    // width="100vw"
     >
       {/* Blog Section Title */}
-      <SectionTitle title="Blog" />
+      {/* <SectionTitle title="Blog" /> */}
 
       {/* Blog Section Content */}
       <Container
-        as={motion.div}
-        variants={staggeredContainer(0.1, 0.1)}
-        viewport={{ once: true }}
-        whileInView="show"
-        initial="hidden"
-        maxWidth={{ base: "container.lg", lg: "75rem" }}
+      // as={motion.div}
+      // variants={staggeredContainer(0.1, 0.1)}
+      // viewport={{ once: true }}
+      // whileInView="show"
+      // initial="hidden"
+      // maxWidth={{ base: "container.lg", lg: "75rem" }}
       >
         {/* Blog Section Subtitle & Description */}
-        <Flex
+        {/* <Flex
           as={motion.div}
           variants={fadeInTransition("up", "tween", 0.1, 1.1)}
           direction="column"
@@ -49,10 +49,10 @@ function BlogSectionComponent(): React.JSX.Element {
             There are some blog about coding that i create to add more insight
             and also to share knowledge
           </SectionDescription>
-        </Flex>
+        </Flex> */}
 
         {/* Blog Section Content Container */}
-        <Grid
+        {/* <Grid
           as={motion.div}
           variants={fadeInTransition("right", "tween", 0, 1)}
           templateColumns={{
@@ -95,10 +95,10 @@ function BlogSectionComponent(): React.JSX.Element {
               </GridItem>
             )
           )}
-        </Grid>
+        </Grid> */}
 
         {/* Blog Section Redirect Button */}
-        <Center
+        {/* <Center
           as={motion.div}
           variants={fadeInTransition("up", "tween", 0.5, 1.1)}
           marginTop={12}
@@ -112,7 +112,7 @@ function BlogSectionComponent(): React.JSX.Element {
           >
             View All Blog
           </PrimaryButton>
-        </Center>
+        </Center> */}
       </Container>
     </Box>
   );
