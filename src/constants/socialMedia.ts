@@ -4,6 +4,7 @@ import {
   FaTiktok,
   FaDiscord,
   FaGithub,
+  FaLinkedinIn,
 } from "react-icons/fa";
 import type { SocialMedia } from "@/types";
 
@@ -27,5 +28,9 @@ export const socialMediaList: SocialMedia[] = [
   {
     SocialMediaIcon: FaDiscord,
     link: "https://discord.com/channels/@elgibran17",
+  },
+  {
+    SocialMediaIcon: FaLinkedinIn,
+    link: "https://www.linkedin.com/in/ibrahimelgibran/",
   },
 ];

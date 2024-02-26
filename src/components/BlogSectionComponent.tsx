@@ -2,7 +2,13 @@ import * as React from "react";
 import { motion } from "framer-motion";
 import { Box, Center, Container, Flex, Grid, GridItem } from "@chakra-ui/react";
 import { BsArrowRightCircleFill } from "react-icons/bs";
-import { BlogCard, PrimaryButton, SectionDescription, SectionSubtitle, SectionTitle } from "@/fragments";
+import {
+  BlogCard,
+  PrimaryButton,
+  SectionDescription,
+  SectionSubtitle,
+  SectionTitle,
+} from "@/fragments";
 import { blogList } from "@/constants";
 import { fadeInTransition, staggeredContainer, truncateList } from "@/utils";
 import SectionLayout from "@/layouts/SectionLayout";
@@ -39,21 +45,39 @@ function BlogSectionComponent(): React.JSX.Element {
           rowGap={{ base: 3, lg: 5 }}
         >
           <SectionSubtitle>Blog About Coding📝</SectionSubtitle>
-          <SectionDescription>There are some blog about coding that i create to add more insight and also to share knowledge</SectionDescription>
+          <SectionDescription>
+            There are some blog about coding that i create to add more insight
+            and also to share knowledge
+          </SectionDescription>
         </Flex>
 
         {/* Blog Section Content Container */}
         <Grid
           as={motion.div}
           variants={fadeInTransition("right", "tween", 0, 1)}
-          templateColumns={{ base: "1fr", md: "repeat(2, 1fr)", lg: "repeat(3, 1fr)" }}
+          templateColumns={{
+            base: "1fr",
+            md: "repeat(2, 1fr)",
+            lg: "repeat(3, 1fr)",
+          }}
           gap={8}
           width={{ base: "90%", lg: "100%" }}
           marginX={{ base: "auto", lg: 0 }}
           marginTop={12}
         >
           {truncatedBlogList.map(
-            ({ slug, title, description, thumbnailImage, categories, uploadedAt, author }, index): React.JSX.Element => (
+            (
+              {
+                slug,
+                title,
+                description,
+                thumbnailImage,
+                categories,
+                uploadedAt,
+                author,
+              },
+              index
+            ): React.JSX.Element => (
               <GridItem
                 as={motion.div}
                 variants={fadeInTransition("up", "tween", index * 0.25, 1.1)}

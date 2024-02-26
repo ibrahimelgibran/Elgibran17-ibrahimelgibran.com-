@@ -110,7 +110,7 @@ function ContactSectionComponent(): React.JSX.Element {
           )}
         </Grid>
 
-        {/* Contact Section Contact Line Divider */}
+        {/* Contact Section Contact Line Divider
         <Box
           position="relative"
           marginY={10}
@@ -121,9 +121,9 @@ function ContactSectionComponent(): React.JSX.Element {
           <AbsoluteCenter backgroundColor="background" paddingX={4}>
             <Text>Or</Text>
           </AbsoluteCenter>
-        </Box>
+        </Box> */}
 
-        {/* Contact Section Contact Form */}
+        {/* Contact Section Contact Form
         <Formik
           initialValues={initialValues}
           onSubmit={sendEmail}
@@ -352,7 +352,7 @@ function ContactSectionComponent(): React.JSX.Element {
               </Box>
             </Form>
           )}
-        </Formik>
+        </Formik> */}
       </Container>
     </Box>
   );
