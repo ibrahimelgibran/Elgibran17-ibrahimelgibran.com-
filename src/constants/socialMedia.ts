@@ -1,7 +1,6 @@
 import {
   FaFacebookF,
   FaInstagram,
-  FaTiktok,
   FaDiscord,
   FaGithub,
   FaLinkedinIn,
@@ -20,10 +19,6 @@ export const socialMediaList: SocialMedia[] = [
   {
     SocialMediaIcon: FaGithub,
     link: "https://github.com/ibrahimelgibran",
-  },
-  {
-    SocialMediaIcon: FaTiktok,
-    link: "https://www.tiktok.com/@ibrahimelgibran17/",
   },
   {
     SocialMediaIcon: FaDiscord,
