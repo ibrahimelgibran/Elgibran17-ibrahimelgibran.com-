@@ -9,6 +9,13 @@ export const skillList: Skill[] = [
       "Java is a programming language that can be run on various computers including mobile phones. This language was originally created by James Gosling when he was still at Sun Microsystems, which is now part of Oracle and was released in 1995.",
   },
   {
+    skillIcon: "/assets/svg/spring.svg",
+    title: "Spring Boot",
+    level: "Advanced",
+    description:
+      "Java Spring Boot is an open-source tool that makes it easier to use Java-based frameworks to create microservices and web apps. For any definition of Spring Boot, the conversation has to start with Java—one of the most popular and widely used development languages and computing platforms for app development.",
+  },
+  {
     skillIcon: "/assets/svg/react.svg",
     title: "React JS",
     level: "Intermediate",
@@ -59,6 +66,13 @@ export const toolList: Skill[] = [
     level: "Advanced",
     description:
       "Visual Studio Code is a source-code editor made by Microsoft with the Electron Framework, for Windows, Linux and macOS.",
+  },
+  {
+    skillIcon: "/assets/svg/mongo.svg",
+    title: "MongoDB",
+    level: "Advanced",
+    description:
+      "MongoDB is a open-source document database built on a horizontal scale-out architecture that uses a flexible schema for storing data.",
   },
   {
     skillIcon: "/assets/svg/mysql.svg",
