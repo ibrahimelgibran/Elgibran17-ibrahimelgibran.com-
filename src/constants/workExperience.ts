@@ -51,19 +51,6 @@ export const workExperienceList: WorkExperience[] = [
     ],
   },
   {
-    jobDesk: "Frondend Developer",
-    companyName: "Berbrandstuff",
-    years: "2019 - Now",
-    jobStatus: "Full Time",
-    jobDescription:
-      "Website Persoal Profile Berbrandstuff in the clothing and clothing property sector.",
-    techStack: [
-      "/assets/svg/html.svg",
-      "/assets/svg/bootstrap.svg",
-      "/assets/svg/javascript.svg",
-    ],
-  },
-  {
     jobDesk: "Backend Developer",
     companyName: "BUYR",
     years: "2023 June - 2023 September ",
