@@ -47,6 +47,13 @@ export const skillList: Skill[] = [
 
 export const toolList: Skill[] = [
   {
+    skillIcon: "/assets/svg/netbeans.svg",
+    title: "NetBeans",
+    level: "Advanced",
+    description:
+      "The Apache NetBeans IDE provides support for several languages (Java, PHP, JavaFX, JavaScript, etc.) and frameworks, and more (C/C++) will be incorporated soon.",
+  },
+  {
     skillIcon: "/assets/svg/idea.svg",
     title: "Intellij Idea",
     level: "Advanced",
