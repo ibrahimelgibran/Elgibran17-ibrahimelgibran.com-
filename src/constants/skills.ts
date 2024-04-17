@@ -4,14 +4,14 @@ export const skillList: Skill[] = [
   {
     skillIcon: "/assets/svg/java.svg",
     title: "Java",
-    level: "Advanced",
+    level: "Intermediate",
     description:
       "Java is a programming language that can be run on various computers including mobile phones. This language was originally created by James Gosling when he was still at Sun Microsystems, which is now part of Oracle and was released in 1995.",
   },
   {
     skillIcon: "/assets/svg/spring.svg",
     title: "Spring Boot",
-    level: "Advanced",
+    level: "Intermediate",
     description:
       "Java Spring Boot is an open-source tool that makes it easier to use Java-based frameworks to create microservices and web apps. For any definition of Spring Boot, the conversation has to start with Java—one of the most popular and widely used development languages and computing platforms for app development.",
   },
