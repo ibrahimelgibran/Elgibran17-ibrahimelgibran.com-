@@ -4,7 +4,7 @@ export const skillList: Skill[] = [
   {
     skillIcon: "/assets/svg/java.svg",
     title: "Java",
-    level: "Intermediate",
+    level: "Advanced",
     description:
       "Java is a programming language that can be run on various computers including mobile phones. This language was originally created by James Gosling when he was still at Sun Microsystems, which is now part of Oracle and was released in 1995.",
   },
