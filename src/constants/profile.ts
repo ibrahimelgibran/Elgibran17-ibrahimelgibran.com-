@@ -15,15 +15,15 @@ export const profileData: Profile = {
   ],
   experiences: [
     {
-      number: 1,
+      number: 2,
       title: "Years Of Experience",
     },
     {
-      number: 4,
+      number: 6,
       title: "Programming Language Used",
     },
     {
-      number: 50,
+      number: 85,
       title: "Successed Projects",
     },
   ],
