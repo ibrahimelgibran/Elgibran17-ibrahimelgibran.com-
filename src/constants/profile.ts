@@ -10,7 +10,7 @@ export const profileData: Profile = {
     "/assets/images/about-profile.png",
   ],
   descriptions: [
-    "I create stunning website for your business, Intermediate experienced in web design and development.",
+    "I create stunning website for your business, Intermediate experienced in web desain and development.",
     "Hello everyone! I am Ibrahim El Gibran, a mobile and website developer. I am a intermediate experienced and I hope with this I can always learning something new to be able to invent digital applications that can help many people in the future. Can work alone or in a team.",
   ],
   experiences: [
