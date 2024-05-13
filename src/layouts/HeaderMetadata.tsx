@@ -7,13 +7,10 @@ export default function HeaderMetadata(): React.JSX.Element {
       <title>Ibrahim El Gibran</title>
 
       <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <meta
-        name="subject"
-        content="Ibrahim El Gibran, Frontend and Backend Website and Mobile Developer"
-      />
+      <meta name="subject" content="Ibrahim El Gibran, Full Stack Developer" />
       <meta
         name="description"
-        content="Hello Everyone👋 I'am Ibrahim El Gibran. A Frontend, Backend Developer and Mobile Developer from Indonesia. This is my personal portfolio website that created using Next.js and Chakra UI"
+        content="Hello Everyone👋 I'am Ibrahim El Gibran. A Full Stack Developer from Indonesia"
       />
       <meta name="author" content="Ibrahim El Gibran" />
 
