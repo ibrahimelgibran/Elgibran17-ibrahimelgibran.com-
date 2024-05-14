@@ -82,6 +82,12 @@ export const toolList: Skill[] = [
       "MongoDB is a open-source document database built on a horizontal scale-out architecture that uses a flexible schema for storing data.",
   },
   {
+    skillIcon: "/assets/svg/mysqlworkbench.svg",
+    title: "MYSQL Workbench",
+    level: "Advanced",
+    description: "a visual application device used to manage basic data.",
+  },
+  {
     skillIcon: "/assets/svg/mysql.svg",
     title: "MySQL",
     level: "Advanced",
