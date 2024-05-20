@@ -17,12 +17,17 @@ export const workExperienceList: WorkExperience[] = [
   },
   {
     jobDesk: "Full Stack Developer",
-    companyName: "Iegcode Elbran",
-    years: "2022 - Now",
+    companyName: "Iegcode",
+    years: "2023 - Now",
     jobStatus: "Full Time",
     jobDescription:
       "I create stunning website for your business, Intermediate experienced in web design and development..",
-    techStack: ["/assets/svg/next js.svg", "/assets/svg/tailwind.svg"],
+    techStack: [
+      "/assets/svg/codeigniter.svg",
+      "/assets/svg/bootstrap.svg",
+      "/assets/svg/mysql.svg",
+      "/assets/svg/php.svg",
+    ],
   },
   {
     jobDesk: "Frondend Developer",

@@ -68,6 +68,28 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
+    title: "My Busniess V2",
+    imageThumbnail: "/assets/images/project-21.png",
+    description:
+      "This is a iegcode e-commerce service platfrom create for website and open source code premium. the very feature compleate, i created using tech stack Codeigniter, Bootstrap, MYSQL. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
+    livePreviewURL: "https://www.iegcode.my.id/",
+    repositoryURL: "https://github.com/ibrahimelgibran/iegcodev2",
+    techStack: [
+      {
+        tech: "PHP",
+        logo: "/assets/svg/php.svg",
+      },
+      {
+        tech: "CODEIGNITER 4",
+        logo: "/assets/svg/codeigniter.svg",
+      },
+      {
+        tech: "MYSQL",
+        logo: "/assets/svg/mysql.svg",
+      },
+    ],
+  },
+  {
     title: "Soto Ijo Monjali",
     imageThumbnail: "/assets/images/project-08.png",
     description:
@@ -90,7 +112,7 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
-    title: "My Busniess",
+    title: "My Busniess V1",
     imageThumbnail: "/assets/images/project-18.png",
     description:
       "This is a WebApp Busniess Tech Stack Next Js, Tailwind CSS. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
